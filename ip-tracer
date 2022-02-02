@@ -35,13 +35,14 @@ case "$1" in
     exit
   ;;
   *)
-    echo "Usage: ip-tracer [command]... [arguments]..."
+    echo "Usage: ip-tracer-pro [command]... [arguments]..."
     echo " Commands:"
+    echo "BY NSproGAMERSYT"
     echo " -t <target_ip>      to trace target ip."
     echo " -m                  to trace your own ip."
     echo " -h                  to show help."
-    echo " -u                  to update ip-tracer."
+    echo " -u                  to update ip-tracer-pro."
     echo " help                to show help."
-    echo " update              to update ip-tracer."
+    echo " update              to update ip-tracer-pro."
     echo " start               to start ip-tracer menu."
 esac

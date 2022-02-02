@@ -1,6 +1,6 @@
-# Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 10/10/2018
+# Tool Name :- IP-Tracer-Pro
+# Author :- NSproGAMERSYT 
+# Date :- 2/2/2022
 # Powered By :- Aex Software's
 if [ -d /data/data/com.termux/files/usr/share ];then
   cd /data/data/com.termux/files/usr/share/IP-Tracer

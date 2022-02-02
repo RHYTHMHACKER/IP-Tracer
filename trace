@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 10/10/2018
+# Tool Name :- IP-Tracer-Pro
+# Author :- NSproGAMERSYT 
+# Date :- 2/2/2022
 
 case "$1" in
   -m)
@@ -37,7 +37,7 @@ case "$1" in
   *)
     echo "Usage: trace [command]... [arguments]..."
     echo " Commands:"
-    echo " -t <target_ip>      to trace target ip."
+    echo " -t <target_ip>      to trace target ip.BY NSproYT"
     echo " -m                  to trace your own ip."
     echo " -h                  to show help."
     echo " -u                  to update ip-tracer."

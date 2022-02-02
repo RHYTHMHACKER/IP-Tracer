@@ -13,7 +13,7 @@ IP-Tracer Pro is used to track an ip address. IP-Tracer is developed for Termux 
 
 * `apt install git -y`
 
-* `git clone https://github.com/RHYTHMHACKER/IP-Tracer`
+* `git clone https://github.com/RHYTHMHACKER/IP-Tracer.git`
 
 * `cd IP-Tracer`
 
